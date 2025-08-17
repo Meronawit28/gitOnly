@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+<title>Fifth Exercise</title>
+</head>
+<body>
+<h1>tokyo</h1>
+<p>tokiyo is the capital of Japan, <q> the center of the greater tokiyo area</q> and the most populus <em> metropolitan </em> area in the world. </p>
+<p>water is composed of H<sub>2</sub>O</p>
+
+</body>
+</html>
